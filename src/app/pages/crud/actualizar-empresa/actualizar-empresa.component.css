@@ -1,13 +1,13 @@
 .card-header {
-  background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
+  background-image: ;
   text-align: center;
 }
 .card {
   /* background-color: #000; */
   /* border: none; */
   background: transparent;
-  border: 2px solid #fdfdfd;
-  box-shadow: 2px 2px 15px #f8faf8 inset;
+  border: 2px solid #030303;
+  box-shadow: ;
   color: #fff;
 }
 
@@ -36,12 +36,12 @@ button.b4 {
   position: relative;
   padding: 10px 10px;
   border-radius: 7px;
-  border: 1px solid rgb(61, 106, 255);
+  border: ;
   font-size: 12px;
   text-transform: uppercase;
   font-weight: 600;
   background: transparent;
-  color: #101111;
+  color:;
   overflow: hidden;
   box-shadow: 0 0 0 0 transparent;
   -webkit-transition: all 0.2s ease-in;
@@ -74,7 +74,7 @@ button.b4::before {
   left: 0%;
   opacity: 0;
   background: #fff;
-  box-shadow: 0 0 50px 30px #fff;
+  box-shadow: ;
   -webkit-transform: skewX(-20deg);
   -moz-transform: skewX(-20deg);
   -ms-transform: skewX(-20deg);
@@ -111,12 +111,12 @@ button.b5 {
   position: relative;
   padding: 10px 10px;
   border-radius: 7px;
-  border: 1px solid rgb(61, 106, 255);
+  border: ;
   font-size: 12px;
   text-transform: uppercase;
   font-weight: 600;
   background: transparent;
-  color: #0077b6;
+  color: ;
   overflow: hidden;
   box-shadow: 0 0 0 0 transparent;
   -webkit-transition: all 0.2s ease-in;
@@ -125,9 +125,9 @@ button.b5 {
 }
 
 button.b5:hover {
-  color: rgb(255, 255, 255);
-  background: rgb(61, 106, 255);
-  box-shadow: 0 0 30px 5px rgba(0, 142, 236, 0.815);
+  color:;
+  background: ;
+  box-shadow: ;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -149,7 +149,7 @@ button.b5::before {
   left: 0%;
   opacity: 0;
   background: #fff;
-  box-shadow: 0 0 50px 30px #fff;
+  box-shadow:;
   -webkit-transform: skewX(-20deg);
   -moz-transform: skewX(-20deg);
   -ms-transform: skewX(-20deg);
