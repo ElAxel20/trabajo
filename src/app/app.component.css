@@ -6,38 +6,34 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  color:;
   font-family: 'Montserrat', sans-serif;
 }
 .container-fluid header nav ul li a{
   color: white !important;
 }
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
 
-/* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
 }
-/* Since positioning the image, we need to help out the caption */
+
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
 }
-/* Set the image size*/
+
 img {
   height: 100%;
   width: 100%;
   object-fit: cover;
  }
-/* Declare heights because of positioning of img element */
+
 .carousel-item {
   height: 34rem;
 }
 
 
-/* MARKETING CONTENT
--------------------------------------------------- */
+
 .card
 {
   background-color: #023047;

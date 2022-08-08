@@ -6,9 +6,9 @@
   /* background-color: #000; */
   /* border: none; */
   background: transparent;
-  border: 2px solid #020202;
-  box-shadow: 2px 2px 15px #000000 inset;
-  color: #fff;
+  border: 2px solid;
+  box-shadow: 2px 2px 15px ;
+  color: ;
 }
 
 /*Input 1*/
@@ -51,9 +51,9 @@ button.b4 {
 }
 
 button.b4:hover {
-  color: rgb(255, 255, 255);
-  background: rgb(13, 13, 14);
-  box-shadow: 0 0 30px 5px rgba(8, 8, 8, 0.815);
+  color:(255, 255, 255);
+  background: (13, 13, 14);
+  box-shadow:;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -127,7 +127,7 @@ button.b5 {
 
 button.b5:hover {
   color: rgb(255, 255, 255);
-  background: rgb(13, 13, 14);
+  background: ;
   box-shadow: 0 0 30px 5px rgba(7, 7, 7, 0.815);
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
